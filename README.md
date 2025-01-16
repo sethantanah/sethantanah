@@ -1,6 +1,8 @@
 <div align="center">
  <h1>Hi there, I'm Seth Antanah 👋</h1>
 
+    <img src="https://komarev.com/ghpvc/?username=sethantanah&color=brightgreen" alt="Profile Views">
+
     <h2>About Me</h2>
     <p>
         I'm a passionate software developer with a keen interest in web development, open source, and AI. 
